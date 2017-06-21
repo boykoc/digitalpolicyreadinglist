@@ -115,3 +115,11 @@ The suggestions I received from Twitter [after my request](https://twitter.com/m
 - [The Naked Diplomat](https://www.amazon.co.uk/dp/B013L2LPVG/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1), by [Tom Fletcher](https://twitter.com/TFletcher). Via [Jen Persson](https://twitter.com/TheABB)
 - [In defence of politics](https://www.amazon.co.uk/Defence-Politics-Continuum-Impacts/dp/0826487513), by Bernard Crick. Via [Stefan Webb](https://twitter.com/Stef_W)
 - _By_ [_Paul Maltby,_](https://twitter.com/maltbyps) _Director of Data Projects,_ [_Department for Communities and Local Government_](https://twitter.com/CommunitiesUK)_, June 2017_
+
+## Contributing
+
+Contributions to this reading list are welcome and appreciated. Feel free to contribute the following ways:
+
+- Twitter is where it started [@maltbyps](https://twitter.com/maltbyps?lang=en)
+- Submitting a Pull Request via github
+- Submitting an issues via github
