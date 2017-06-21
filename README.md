@@ -17,6 +17,7 @@ Conscious that there was probably a lot I’d missed [I asked on Twitter](https:
 
 - You can download the reading list from GitHub [here](https://github.com/paulmaltby3/digitalpolicyreadinglist/raw/master/Digitalpolicyreadinglist.odt)
 - You can view the [Google Doc](https://t.co/RVPQQ73F0v)
+- You can [view this page in a more user friendly format](https://paulmaltby3.github.io/digitalpolicyreadinglist) as well
 - Or read it below
 
 ## Reading list for government policy people interested in digital
